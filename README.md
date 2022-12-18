@@ -1,5 +1,5 @@
 ## Medical Cost Analysis
-This is a guided project aiming to estimate the approximate cost of health insurance of individuals based on the given personal information. The dataset link is: https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv
+This is a guided project aiming to estimate the approximate cost of health insurance of individuals based on the given personal information. The dataset link: https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv
 ### Content of the Dataset
 Columns:
 - age: Age of primary beneficiary
